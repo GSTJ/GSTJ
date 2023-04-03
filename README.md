@@ -7,8 +7,10 @@ Senior Software Engineer @ X-Team
 
 Previously worked with AB-Inbev in Zé Delivery, Brazil's biggest beverage delivery app.
 
-- 💻 Focused on mobile development.
+- 🎙️ Podcast host @ SpaceCast
 
-- 🔭 Enthusiast of open source
+- 💻 Focused on mobile development
 
-- 🌱 Learning new technologies and creating personal projects.
+- 🔭 Open source enthusiast
+
+Follow me at my socials: [linktr.ee/gabrielstaveira](linktr.ee/gabrielstaveira)
