@@ -13,4 +13,4 @@ Previously worked with AB-Inbev in Zé Delivery, Brazil's biggest beverage deliv
 
 - 🔭 Open source enthusiast
 
-Follow me at my socials: [linktr.ee/gabrielstaveira](linktr.ee/gabrielstaveira)
+Follow me at my socials: [gabrieltaveira.dev/links](https://www.gabrieltaveira.dev/links)
