@@ -1,6 +1,6 @@
 # Gabriel Taveira
 
-Senior Software Engineer @ X-Team
+Senior Software Engineer @ A.Team
 
 Previously worked with AB-Inbev in Zé Delivery, Brazil's biggest beverage delivery app.
 
