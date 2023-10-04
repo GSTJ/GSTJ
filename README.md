@@ -5,8 +5,8 @@ Over seven years of experience in the market. I've worked on projects of all siz
 Some companies that have worked with me are AB-InBev, X-Team, and Meta.
 
 - 🎙️ Podcast host @ SpaceCast
-- 🗣️ Technology & Leadership events Speaker
-- 💻 Focused on mobile development
+- 🗣️ Technology & Leadership Events Speaker
+- 💻 Focused on Mobile Development
 
 
 <br>**Tech Stack**
