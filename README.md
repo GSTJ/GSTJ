@@ -1,15 +1,16 @@
 # Gabriel Taveira
 
-Senior Software Engineer @ A.Team
+Over seven years of experience in the market. I've worked on projects of all sizes - from startups to tech giants, from delivery apps to AI companies and fintechs.
 
-Previously worked with AB-Inbev in Zé Delivery, Brazil's biggest beverage delivery app.
+Some companies that have worked with me are AB-InBev, X-Team, and Meta.
 
 - 🎙️ Podcast host @ SpaceCast
-
+- 🗣️ Technology & Leadership events Speaker
 - 💻 Focused on mobile development
 
-- 🔭 Open source enthusiast
 
+<br>**Tech Stack**<br>
+Here are some technologies you can expect to find me using 👇
 
 <div style="display: inline_block"><br>
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
