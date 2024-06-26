@@ -1,6 +1,6 @@
 # Gabriel Taveira
 
-Over seven years of experience in the market. I've worked on projects of all sizes - from startups to tech giants, from delivery apps to AI companies and fintechs.
+Over eight years of experience in the market. I've worked on projects of all sizes - from startups to tech giants, from delivery apps to AI companies and fintechs.
 
 Some companies that have worked with me are AB-InBev, X-Team, Coinbase and Meta.
 
