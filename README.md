@@ -1,19 +1,10 @@
 # Gabriel Taveira
 
-Over eight years of experience in the market. I've worked on projects of all sizes - from startups to tech giants, from delivery apps to AI labs and fintechs.
+Over nine years of experience in the market. I've worked on projects of all sizes - from startups to tech giants, from delivery apps to AI labs and fintechs.
 
 Some companies that have worked with me are AB-InBev, Morgan & Morgan, Coinbase and Meta.
 
-I currently lead projects, love technology & dealing with people.
-
-**Tech Stack**
-<div style="display: inline_block">
-  <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="react, react-native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="expo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/expo/expo-original.svg">
-  <img align="center" alt="next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Node.JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
-</div>
+I currently lead teams & projects, love technology & dealing with people.
   
 ---
 
