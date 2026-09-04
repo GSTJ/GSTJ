@@ -11,7 +11,7 @@ I lead teams and still stay close to the code. Security is part of that work: th
 - [Bound signed image-upload grants to the requesting user](https://github.com/GSTJ/pegada/pull/180), including exact byte-size signatures, expiry, quotas, and cleanup.
 - [Hardened shared tooling trust boundaries](https://github.com/GSTJ/magic/pull/10) against symlink races, mutable CI dependencies, and unverified release archives.
 
-More public work and context: [gabrieltaveira.dev/#security](https://www.gabrieltaveira.dev/en-US#security)
+More public work and context: [gabrieltaveira.dev/security](https://www.gabrieltaveira.dev/en-US/security)
   
 ---
 
