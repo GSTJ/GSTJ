@@ -5,6 +5,8 @@ Over nine years of experience in the market. I've worked on projects of all size
 Some companies that have worked with me are AB-InBev, Morgan & Morgan, Coinbase and Meta.
 
 I currently lead teams & projects, love technology & dealing with people.
+
+On the side I'm building [Curvinha](https://curvinha.app/?ct=github-profile), an iOS app that scans a room with LiDAR and plans it with real products you can buy, curated with architects from Curva Interiores.
   
 ---
 
