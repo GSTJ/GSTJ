@@ -2,12 +2,23 @@
 
 Over nine years of experience in the market. I've worked on projects of all sizes - from startups to tech giants, from delivery apps to AI labs and fintechs.
 
-Some companies that have worked with me are AB-InBev, Morgan & Morgan, Coinbase and Meta.
+Some companies I've worked with are AB-InBev, Coinbase and Meta.
 
-I currently lead teams & projects, love technology & dealing with people.
+These days I work as an independent consultant: fractional CTO and engineering lead for product teams.
 
-On the side I'm building [Curvinha](https://curvinha.app/?ct=github-profile), an iOS app that scans a room with LiDAR and plans it with real products you can buy, curated with architects from Curva Interiores.
-  
+<table>
+  <tr>
+    <td width="96" valign="top">
+      <a href="https://curvinha.app/?ct=github-profile"><img src="https://curvinha.app/assets/apple-touch-icon.png" width="80" height="80" alt="Curvinha app icon"></a>
+    </td>
+    <td valign="top">
+      <strong><a href="https://curvinha.app/?ct=github-profile">Curvinha</a></strong>, the interior design app I'm building with an architect's curation.<br>
+      You show your room through your iPhone and get a proposal with real furniture from Brazilian stores, the room in 3D, and a shopping list with the price and link for every piece. Curated with the architects at Curva Interiores.<br><br>
+      <a href="https://apps.apple.com/br/app/id6816957870?pt=126480814&ct=github-profile"><img src="https://curvinha.app/assets/appstore/en-black.svg" height="40" alt="Download Curvinha on the App Store"></a>
+    </td>
+  </tr>
+</table>
+
 ---
 
 Follow me at my socials: [gabrieltaveira.dev/links](https://www.gabrieltaveira.dev/links)
